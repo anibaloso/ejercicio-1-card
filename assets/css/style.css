@@ -21,5 +21,14 @@ background-color: #333333;
     width: 150px;
     display: flex;
     align-self: center;
+    margin-top: 50px;
+}
 
+h5{
+    font-size: small;
+}
+
+.card-text{
+    font-size: small;
+    
 }
